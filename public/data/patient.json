@@ -1,0 +1,13 @@
+{
+  "bedOcupency": [
+    {
+      "not_ready": 128,
+      "arrived": 35,
+      "open": 502,
+      "admitted": 859,
+      "hold": 11,
+      "wait": 38,
+      "registerd": 224
+    }
+  ]
+}
